@@ -5,10 +5,12 @@
 交通大数据平台建设设计方案
 
 ## 目录
-- background
+- [background](https://github.com/liuyang0717/platform/tree/master/background)
 	- 方案背景
-- architecture
+- [architecture](https://github.com/liuyang0717/platform/tree/master/architecture)
 	- 方案架构
+- [activities](https://github.com/liuyang0717/platform/tree/master/activities)
+	- 方案活动
 
 ## ToDo
 - [ ] 大数据的基本介绍
