@@ -6,5 +6,9 @@
 ## 目录
 - [base.md](https://github.com/liuyang0717/platform/blob/master/architecture/base.md)
 	- 基本架构
+- [element]()
+	- 基本要素
+- [relation]()
+	- 要素间关系
 
-## ToDo
+
