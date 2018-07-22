@@ -4,7 +4,7 @@
 ## 置顶
 
 ## 目录
-- base.md
+- [base.md](https://github.com/liuyang0717/platform/blob/master/architecture/base.md)
 	- 基本架构
 
 ## ToDo
