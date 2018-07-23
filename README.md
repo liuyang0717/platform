@@ -1,5 +1,7 @@
 # 2018暑期社会实践
 ## 置顶
+- [x] [**数据预处理**(沈希完成)](https://github.com/liuyang0717/platform/blob/master/architecture/relation/preprocess.md)
+- [x] [**数据储存**(沈希完成)](https://github.com/liuyang0717/platform/blob/master/architecture/relation/storage.md)
 - [x] 文件内容整理在了[网盘](https://pan.baidu.com/mbox/homepage?short=snkTKyL#share/type=session)
 - [x] [交通规划的基本介绍(豆岚雨完成)](https://github.com/liuyang0717/platform/blob/master/background/trafficplanning.md)  
 - [x] 新增了[团队人员的任务列表](https://github.com/liuyang0717/platform/blob/master/mission.md)
