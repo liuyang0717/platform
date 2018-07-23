@@ -4,9 +4,9 @@
 ## 置顶
 
 ## 目录
-- [preprocessstorage.md]()
+- [preprocessstorage.md](https://github.com/liuyang0717/platform/blob/master/architecture/relation/preprocessstorage.md)
 	- 数据预处理和储存
-- [analysis.md]()
+- [analysis.md](https://github.com/liuyang0717/platform/blob/master/architecture/relation/analysis.md)
 	- 数据分析
-- [valueconversion.md]()
+- [valueconversion.md](https://github.com/liuyang0717/platform/blob/master/architecture/relation/valueconversion.md)
 	- 价值转换

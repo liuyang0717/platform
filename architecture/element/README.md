@@ -4,11 +4,11 @@
 ## 置顶
 
 ## 目录
-- [rawdata.md]()
+- [rawdata.md](https://github.com/liuyang0717/platform/blob/master/architecture/element/rawdata.md)
 	- 原始数据
-- [basedata.md]()
+- [basedata.md](https://github.com/liuyang0717/platform/blob/master/architecture/element/basedata.md)
 	- 数据库数据
-- [mining.md]()
+- [mining.md](https://github.com/liuyang0717/platform/blob/master/architecture/element/mining.md)
 	- 数据挖掘
-- [service.md]()
+- [service.md](https://github.com/liuyang0717/platform/blob/master/architecture/element/service.md)
 	- 数据业务

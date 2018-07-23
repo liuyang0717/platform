@@ -6,9 +6,9 @@
 ## 目录
 - [base.md](https://github.com/liuyang0717/platform/blob/master/architecture/base.md)
 	- 基本架构
-- [element]()
+- [element](https://github.com/liuyang0717/platform/tree/master/architecture/element)
 	- 基本要素
-- [relation]()
+- [relation](https://github.com/liuyang0717/platform/tree/master/architecture/relation)
 	- 要素间关系
 
 
